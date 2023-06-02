@@ -31,8 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ujuadimorade-ithinkblog-9akc9ci0nzx.ws-eu98.gitpod.io',
-'codestar2021.heroku.com', 'local host']
+ALLOWED_HOSTS = ['8000-ujuadimorade-ithinkblog-9akc9ci0nzx.ws-eu98.gitpod.io', 'codestar2021.heroku.com', 'local host']
 
 
 
